@@ -1,6 +1,6 @@
 # Old-Twitter
 
-![Old-Twitter Logo](link_a_tu_logo_antiguo.png)
+![Old-Twitter Logo](https://github.com/dprmaxYT/Old-Twitter/blob/main/twitter.png)
 
 Old-Twitter es una versión personalizada de la aplicación Twitter para Android, inspirada en la versión renombrada por Elon Musk como "X". Esta versión utiliza el nombre y el icóno clásico de Twitter, manteniendo el estilo y diseño original que muchos usuarios conocen y aman.
 
